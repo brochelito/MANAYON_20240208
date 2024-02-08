@@ -1,11 +1,5 @@
-﻿using AutoMapper;
-using MediatR;
-using System;
-using System.Collections.Generic;
-using System.Linq;
+﻿using MediatR;
 using System.Text;
-using System.Text.RegularExpressions;
-using System.Threading.Tasks;
 
 namespace DataTemplator.Application.ProcessData
 {

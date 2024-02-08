@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace DataTemplator.Application.Responses
+﻿namespace DataTemplator.Application.Responses
 {
     public class BaseResponse
     {

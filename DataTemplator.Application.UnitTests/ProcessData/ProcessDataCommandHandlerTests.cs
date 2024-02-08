@@ -1,15 +1,7 @@
 ﻿using DataTemplator.Application.ProcessData;
-using DataTemplator.Application.UnitTests.ProcessData;
-using EmptyFiles;
-using Moq;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 using Shouldly;
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace DataTemplator.Application.UnitTests.ProcessData
 {

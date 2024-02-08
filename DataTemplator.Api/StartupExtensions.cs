@@ -1,6 +1,4 @@
-﻿using Microsoft.AspNetCore.Identity;
-using System.Security.Claims;
-using DataTemplator.Application;
+﻿using DataTemplator.Application;
 
 namespace DataTemplator.Api
 {
