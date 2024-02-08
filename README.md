@@ -27,3 +27,13 @@ Now that the application is built and the Docker image is created, you can run t
    docker run -p 8080:80 --name datatemplator-container datatemplatorapi
 2. Access the application in a web browser or a tool like Postman:
    http://localhost:8080/api/data
+
+Test Instructions:
+Run the unit tests using the .NET CLI:
+dotnet test
+
+Design Decisions:
+ The design decision centers on implementing Clean Architecture principles in ASP.NET Core to achieve a testable and 
+ maintainable codebase. By emphasizing clear separation of concerns and isolating dependencies, this approach ensures 
+ flexibility and scalability, facilitating efficient testing and sustainable maintenance throughout the application's 
+ evolution.
