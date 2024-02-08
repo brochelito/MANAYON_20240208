@@ -1,5 +1,6 @@
 DataTemplator.Api
 
+ ```bash
 Build Instructions
 
 Prerequisites:
@@ -9,15 +10,10 @@ Ensure that you have the following prerequisites installed on your development m
 
 Build the Application Locally:
 1. Clone the repository to your local machine:
- ```bash
-   git clone https://github.com/brochelito/MANAYON_20240208.git 
-///
+   git clone https://github.com/brochelito/MANAYON_20240208.git
 2. Navigate to the project directory:
- ```bash
    cd MANAYON_20240208
-///
 3. Build the application using the .NET CLI:
- ```bash
    dotnet build -c Release
 
 Build the Docker Image:
